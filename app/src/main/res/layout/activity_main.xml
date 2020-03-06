@@ -61,20 +61,7 @@
         android:layout_height="wrap_content">
 
     </Button>-->
-    <!--    <Button
-            android:layout_weight="0.2"
 
-            android:gravity="center"
-            android:layout_gravity="center"
-            android:id="@+id/webCall"
-            android:layout_width="match_parent"
-            android:layout_margin="25dp"
-            android:text="WebService Call"
-            android:background="#03A9F4"
-
-            android:layout_height="wrap_content">
-
-        </Button>-->
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>
